@@ -1,4 +1,4 @@
-# 🚀Onboarding-Modulo_0
+# 🚀Onboarding-LaunchX.
 
 🛰En este repositorio se subira💹 el progreso del Onboarding de LaunchX.
 
